@@ -1,0 +1,90 @@
+[
+  {
+    "id": 40,
+    "product_name": "flats",
+    "price": "$233.58",
+    "color": "Khaki",
+    "isFavourite": false,
+    "picture": " https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg "
+  },
+  {
+    "id": 41,
+    "product_name": "heels",
+    "price": "$279.53",
+    "color": "Orange",
+    "isFavourite": true,
+    "picture": " https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg "
+  },
+  {
+    "id": 42,
+    "product_name": "heels",
+    "price": "$226.67",
+    "color": "Maroon",
+    "isFavourite": false,
+    "picture": " https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg "
+  },
+  {
+    "id": 43,
+    "product_name": "slippers",
+    "price": "$319.03",
+    "color": "Maroon",
+    "isFavourite": false,
+    "picture": " https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg "
+  },
+  {
+    "id": 44,
+    "product_name": "flats",
+    "price": "$276.14",
+    "color": "Puce",
+    "isFavourite": true,
+    "picture": " https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg "
+  },
+  {
+    "id": 45,
+    "product_name": "boots",
+    "price": "$459.70",
+    "color": "Fuscia",
+    "isFavourite": true,
+    "picture": " https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg "
+  },
+  {
+    "id": 46,
+    "product_name": "slippers",
+    "price": "$343.35",
+    "color": "Orange",
+    "isFavourite": true,
+    "picture": " https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg "
+  },
+  {
+    "id": 47,
+    "product_name": "moccasins",
+    "price": "$292.23",
+    "color": "Teal",
+    "isFavourite": false,
+    "picture": " https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg "
+  },
+  {
+    "id": 48,
+    "product_name": "heels",
+    "price": "$473.22",
+    "color": "Pink",
+    "isFavourite": false,
+    "picture": " https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg "
+  },
+  {
+    "id": 49,
+    "product_name": "slippers",
+    "price": "$178.60",
+    "color": "Teal",
+    "isFavourite": false,
+    "picture": " https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg "
+  },
+  {
+    "id": 50,
+    "product_name": "boots",
+    "price": "$209.84",
+    "color": "Turquoise",
+    "isFavourite": true,
+    "picture": " https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg "
+  }
+]
